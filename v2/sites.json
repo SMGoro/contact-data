@@ -1,0 +1,12 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "contact-data",
+      "url": "https://github.com/SMGoro/contact-data",
+      "avatar": "https://cdn.jsdelivr.net/gh/SMGCDN/photos/icon/iconfont/social-github.svg",
+      "screenshot": "",
+      "description": "通过Github Issues实现的自动提交数据合集"
+    }
+  ]
+}

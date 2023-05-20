@@ -1,0 +1,32 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Touhou.Pub",
+      "url": "https://touhou.pub",
+      "avatar": "https://touhou.pub/assets/logo/touhou_lite_color.svg",
+      "screenshot": "",
+      "description": "东方信息公开站"
+    },
+    {
+      "title": "SMGoro Blog",
+      "url": "https://5l.re/",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=2128336160&s=640",
+      "description": "五郎的博客2333"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "xaoxuu大佬的博客"
+    },
+    {
+      "title": "IMC.RE",
+      "url": "https://imc.re/",
+      "avatar": "https://img.imc.re/logo/imc.re_x1024.png",
+      "screenshot": "",
+      "description": "IMC.RE官方网站"
+    }
+  ]
+}
